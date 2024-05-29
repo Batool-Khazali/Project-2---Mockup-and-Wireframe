@@ -6,6 +6,10 @@ The goal was to create a mockup and wireframe for a clothing website.
 
 Hope this will be up to your expectations.
 
-https://www.figma.com/proto/GHe5EZtGtxfNwyDOxoR1tN/Celestial-Clothes-Store?node-id=12-575&t=upJ0dQL9MPEkmnPd-1
+29/5/2024 Wendesday
 
-29/5/2024 wendesday
+Edit 29/5/2024 Wednesday :
+
+Used the wrong link. My deepest apolegies.
+
+https://www.figma.com/design/GHe5EZtGtxfNwyDOxoR1tN/Celestial-Clothes-Store?node-id=0-1&t=upJ0dQL9MPEkmnPd-1
